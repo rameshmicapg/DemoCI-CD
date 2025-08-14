@@ -1,8 +1,6 @@
 # DemoCI-CD
 # programmer-jokes
 
-In order to understand recursion you must first understand recursion.
-
 There are 10 kinds of people in this world: Those who understand binary, and those who don't.
 
 An SEO expert walked into a bar, pub, liquor store, brewery, alcohol, beer, whiskey, vodka...
@@ -27,5 +25,4 @@ testing here reset chagnes now
 testing today now.
 here start developement today.
 Texting new developer text1
-
 
