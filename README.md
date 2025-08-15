@@ -23,8 +23,7 @@ testing today now.
 here start developement today.
 login ui changes here 
 i am software developer.
-No i am ios developer 
-Texting new developer text1
+No i am ios developer
 
 
 
