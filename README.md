@@ -2,7 +2,6 @@
 # programmer-jokes
 
 An SEO expert walked into a bar, pub, liquor store, brewery, alcohol, beer, whiskey, vodka...
-
 Why did the two functions stop calling each other?
 this is line i want to learn new langauge without any tension.
 
@@ -23,6 +22,6 @@ testing here reset chagnes now
 testing today now.
 here start developement today.
 login ui changes here 
-textshow here uiChagnes
+No i am ios developer 
 Texting new developer text1
 
