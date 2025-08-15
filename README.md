@@ -2,7 +2,6 @@
 # programmer-jokes
 
 An SEO expert walked into a bar, pub, liquor store, brewery, alcohol, beer, whiskey, vodka...
-
 Why did the two functions stop calling each other?
 this is line i want to learn new langauge without any tension.
 
@@ -24,6 +23,7 @@ testing today now.
 here start developement today.
 login ui changes here 
 i am software developer.
+No i am ios developer 
 Texting new developer text1
 
 
